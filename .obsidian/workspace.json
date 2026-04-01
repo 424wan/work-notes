@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "界面实现计划.md",
+                "file": "通用程序指令说明.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "界面实现计划"
+              "title": "通用程序指令说明"
             }
           }
         ],
@@ -82,13 +82,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "界面实现计划.md",
+                "file": "通用程序指令说明.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "界面实现计划 的大纲"
+              "title": "通用程序指令说明 的大纲"
             }
           },
           {
@@ -216,7 +216,9 @@
   },
   "active": "c927b2156b371ff5",
   "lastOpenFiles": [
+    "界面实现计划.md",
     "杂记.md",
+    "简单编程保存流程说明.md",
     "通用程序指令说明.md",
     "取片工艺教导插入流程.md",
     "冲压工艺教导插入流程.md",
@@ -225,7 +227,6 @@
     "专版注塑工艺-进展与待确认清单-260327.md",
     "专版注塑工艺_进展与待确认清单.md",
     "专版注塑工艺_",
-    "界面实现计划.md",
     "程序指令存储流程说明.md",
     "未命名.base",
     "未命名.canvas",

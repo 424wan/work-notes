@@ -43,7 +43,17 @@
               "state": {
                 "file": "《小白填坑日记》.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
               "title": "《小白填坑日记》"
@@ -97,7 +107,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "[\"tags\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -118,7 +128,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -138,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "界面实现计划.md",
+                "file": "《小白填坑日记》.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +159,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "界面实现计划 的反向链接列表"
+              "title": "《小白填坑日记》 的反向链接列表"
             }
           },
           {
@@ -157,12 +168,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "界面实现计划.md",
+                "file": "《小白填坑日记》.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "界面实现计划 的出链列表"
+              "title": "《小白填坑日记》 的出链列表"
             }
           },
           {
@@ -187,7 +198,7 @@
               "type": "all-properties",
               "state": {
                 "sortOrder": "frequency",
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-archive",
@@ -195,11 +206,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 397.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -215,6 +226,7 @@
   },
   "active": "054fa6217c94bc67",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20260410005043.png",
     "等待开模完问题调试复盘.md",
     "快捷面板输出201切换调试复盘.md",
     "InjectTechnology_interval_output_trace.md",
@@ -247,7 +259,6 @@
     "程序指令存储流程说明.md",
     "未命名.base",
     "未命名.canvas",
-    "欢迎.md",
     "未命名"
   ]
 }

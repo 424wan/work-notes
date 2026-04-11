@@ -1,79 +1,14 @@
 {
   "main": {
-    "id": "ebaf6eecd5e0eac8",
+    "id": "d197b2b7d378cf4e",
     "type": "split",
     "children": [
       {
-        "id": "f1f768090fa850e9",
+        "id": "cade9148638eb5b7",
         "type": "tabs",
         "children": [
           {
-            "id": "db728275ea16b5e0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "专版注塑工艺-进展与待确认清单-260327.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "专版注塑工艺-进展与待确认清单-260327"
-            }
-          },
-          {
-            "id": "7e0089059ff3de5d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-<<<<<<< HEAD
-                "file": "实现计划.md",
-=======
-                "file": "各个界面功能分析/模板快设-路径.md",
->>>>>>> 6c3cec28c4cc0d0f007eb1f50ad1cd53cab17ff2
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-<<<<<<< HEAD
-              "title": "实现计划"
-=======
-              "title": "模板快设-路径"
->>>>>>> 6c3cec28c4cc0d0f007eb1f50ad1cd53cab17ff2
-            }
-          },
-          {
-            "id": "054fa6217c94bc67",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-<<<<<<< HEAD
-                "file": "旧安全区逻辑分析及修改方案.md",
-=======
-                "file": "《小白填坑日记》.md",
->>>>>>> 6c3cec28c4cc0d0f007eb1f50ad1cd53cab17ff2
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-<<<<<<< HEAD
-              "title": "旧安全区逻辑分析及修改方案"
-            }
-          },
-          {
-            "id": "41792d95e1582321",
+            "id": "371ccd7577079eb9",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -83,31 +18,24 @@
                 "source": false
               },
               "icon": "lucide-file",
-=======
->>>>>>> 6c3cec28c4cc0d0f007eb1f50ad1cd53cab17ff2
               "title": "《小白填坑日记》"
             }
           }
-        ],
-<<<<<<< HEAD
-        "currentTab": 3
-=======
-        "currentTab": 2
->>>>>>> 6c3cec28c4cc0d0f007eb1f50ad1cd53cab17ff2
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "ea071c31e43bc382",
+    "id": "28486a90fa4f54c2",
     "type": "split",
     "children": [
       {
-        "id": "0c81260308cd646c",
+        "id": "7f609ac0b66ddd05",
         "type": "tabs",
         "children": [
           {
-            "id": "423c131569b71584",
+            "id": "36e813e1cc3b667b",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -120,7 +48,24 @@
             }
           },
           {
-            "id": "c927b2156b371ff5",
+            "id": "3877f91d48450936",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "这次需求不是单纯改几个按钮文字",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "6c8c5f9072b6fc8d",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -135,24 +80,7 @@
             }
           },
           {
-            "id": "c67c66190bdea547",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "[\"tags\"]",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-search",
-              "title": "搜索"
-            }
-          },
-          {
-            "id": "f2d9bfb5874e711a",
+            "id": "d821a2708ba782f9",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -166,23 +94,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 407.5
+    "width": 300
   },
   "right": {
-    "id": "75a1f1c28bfc3d9d",
+    "id": "886d4614d0bca960",
     "type": "split",
     "children": [
       {
-        "id": "f1f04574e710d8ab",
+        "id": "bbd8038bd18618d2",
         "type": "tabs",
         "children": [
           {
-            "id": "46de7e0fc06d49e6",
+            "id": "c5581cdb50fb57aa",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "《小白填坑日记》.md",
+                "file": "实现计划.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,25 +120,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "《小白填坑日记》 的反向链接列表"
+              "title": "实现计划 的反向链接列表"
             }
           },
           {
-            "id": "e4400dd5c88e058f",
+            "id": "012ef6f0ac7012a2",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "《小白填坑日记》.md",
+                "file": "实现计划.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "《小白填坑日记》 的出链列表"
+              "title": "实现计划 的出链列表"
             }
           },
           {
-            "id": "313fe85d3962a882",
+            "id": "c33ae277bea7b819",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -225,25 +153,39 @@
             }
           },
           {
-            "id": "7aee0a2af153a042",
+            "id": "01cad163df70e93c",
             "type": "leaf",
             "state": {
               "type": "all-properties",
               "state": {
                 "sortOrder": "frequency",
-                "showSearch": true,
+                "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-archive",
               "title": "添加笔记属性"
             }
+          },
+          {
+            "id": "d01c21c85550e74f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "实现计划.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "实现计划 的大纲"
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 397.5,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
@@ -257,78 +199,11 @@
       "bases:新建数据库": false
     }
   },
-<<<<<<< HEAD
-  "active": "c927b2156b371ff5",
+  "active": "6c8c5f9072b6fc8d",
   "lastOpenFiles": [
-    "快捷面板输出201切换调试复盘.md",
-    "排障集合.md",
-    "旧安全区逻辑分析及修改方案.md",
-    "《小白填坑日记》.md",
-    "未命名",
-    "下位机参与修改记录.md",
     "实现计划.md",
-    "纯上位机修改记录.md",
-    "EASY_PROGRAM_IO_ACTION_TRACE.md",
-    "InjectTechnology_interval_output_trace.md",
-    "CHECKSUM_HANDOFF.md",
-    "等待开模完问题调试复盘.md",
-    "专版注塑工艺-进展与待确认清单-260327.md",
-=======
-  "active": "054fa6217c94bc67",
-  "lastOpenFiles": [
-    "Attachments/Pasted image 20260410005043.png",
-    "等待开模完问题调试复盘.md",
-    "快捷面板输出201切换调试复盘.md",
-    "InjectTechnology_interval_output_trace.md",
-    "InjectSpeedControlArea长按预设值调试复盘.md",
-    "F_CMD_FSIO_CHECK确认时间滤波调试复盘.md",
-    "EasyProgram检测方向与QuickPage预设初始化问题交接摘要.md",
-    "EASY_PROGRAM_IO_ACTION_TRACE.md",
-    "CHECKSUM_HANDOFF.md",
-    "纯上位机修改记录 1.md",
-    "InjectSpeedControlArea_debug_review.md",
-    "HANDOFF_SUMMARY.md",
-    "Pasted image 20260410005043.png",
-    "Pasted image 20260408083644.png",
-    "纯上位机修改记录.md",
     "《小白填坑日记》.md",
-    "Attachments/Pasted image 20260410004853.png",
-    "Attachments",
-    "下位机参与修改记录.md",
->>>>>>> 6c3cec28c4cc0d0f007eb1f50ad1cd53cab17ff2
-    "通用程序指令说明.md",
-    "界面实现计划.md",
-    "杂记.md",
-    "简单编程保存流程说明.md",
-    "取片工艺教导插入流程.md",
-    "冲压工艺教导插入流程.md",
-    "大修改记录.md",
-<<<<<<< HEAD
-    "简单编程保存流程说明.md",
-    "取片工艺教导插入流程.md",
-    "注塑工艺检测信号与正反向检测设置解析.md",
-    "EasyProgram检测方向与QuickPage预设初始化问题交接摘要.md",
-    "Pasted image 20260408083644.png",
-    "F_CMD_FSIO_CHECK确认时间滤波调试复盘.md",
-    "InjectSpeedControlArea长按预设值调试复盘.md",
-    "InjectSpeedControlArea_debug_review.md",
-    "home/harry/robot/HMI-RX_/qml/App_HAMOUI/teach",
-    "home/harry/robot/HMI-RX_/qml/App_HAMOUI",
-    "home/harry/robot/HMI-RX_/qml",
-    "home/harry/robot/HMI-RX_",
-    "home/harry/robot",
-    "home/harry",
-    "home",
-    "HANDOFF_SUMMARY.md",
-    "纯上位机修改记录 1.md",
-=======
-    "各个界面功能分析/模板快设-路径.md",
-    "专版注塑工艺-进展与待确认清单-260327.md",
-    "专版注塑工艺_进展与待确认清单.md",
->>>>>>> 6c3cec28c4cc0d0f007eb1f50ad1cd53cab17ff2
-    "专版注塑工艺_",
-    "程序指令存储流程说明.md",
-    "未命名.base",
-    "未命名.canvas"
+    "排障集合.md",
+    "纯上位机修改记录.md"
   ]
 }

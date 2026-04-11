@@ -15,5 +15,13 @@
       ],
       "key": "E"
     }
+  ],
+  "outline:open-for-current": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Q"
+    }
   ]
 }
